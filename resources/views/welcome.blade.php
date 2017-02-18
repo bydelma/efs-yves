@@ -38,8 +38,13 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5</div>
-            </div>
+                <div class="title">Eagle Financial Services</div>
+               <div><a href="http://localhost/efs/public/customers">Enter Here</a>.</div>;
+?>
+            </div>          
         </div>
+
+
+
     </body>
 </html>
